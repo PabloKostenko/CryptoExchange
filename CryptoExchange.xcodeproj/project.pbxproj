@@ -11,6 +11,16 @@
 		7B9D6AC12C43E1C400FD5C7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6AC02C43E1C400FD5C7D /* ContentView.swift */; };
 		7B9D6AC32C43E1C800FD5C7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B9D6AC22C43E1C800FD5C7D /* Assets.xcassets */; };
 		7B9D6AC62C43E1C800FD5C7D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B9D6AC52C43E1C800FD5C7D /* Preview Assets.xcassets */; };
+		7B9D6AD02C43E20000FD5C7D /* MenuOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6ACF2C43E20000FD5C7D /* MenuOption.swift */; };
+		7B9D6AD22C43E21800FD5C7D /* CoinJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6AD12C43E21800FD5C7D /* CoinJson.swift */; };
+		7B9D6AD52C43E25300FD5C7D /* RoundedTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6AD42C43E25300FD5C7D /* RoundedTextFieldView.swift */; };
+		7B9D6AD72C43E25D00FD5C7D /* DropDownMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6AD62C43E25D00FD5C7D /* DropDownMenuView.swift */; };
+		7B9D6AD92C43E27500FD5C7D /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6AD82C43E27500FD5C7D /* CoinManager.swift */; };
+		7B9D6ADB2C43E27F00FD5C7D /* DropDownMenuViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6ADA2C43E27F00FD5C7D /* DropDownMenuViewModel.swift */; };
+		7B9D6ADD2C43E28E00FD5C7D /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6ADC2C43E28E00FD5C7D /* ContentViewModel.swift */; };
+		7B9D6ADF2C43E29D00FD5C7D /* TypingLabelWrapperswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9D6ADE2C43E29D00FD5C7D /* TypingLabelWrapperswift.swift */; };
+		7B9D6AE32C43E33000FD5C7D /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B9D6AE02C43E32A00FD5C7D /* Montserrat-Bold.ttf */; };
+		7B9D6AE42C43E33000FD5C7D /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7B9D6AE22C43E33000FD5C7D /* Montserrat-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,17 @@
 		7B9D6AC02C43E1C400FD5C7D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7B9D6AC22C43E1C800FD5C7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B9D6AC52C43E1C800FD5C7D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7B9D6ACF2C43E20000FD5C7D /* MenuOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuOption.swift; sourceTree = "<group>"; };
+		7B9D6AD12C43E21800FD5C7D /* CoinJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinJson.swift; sourceTree = "<group>"; };
+		7B9D6AD42C43E25300FD5C7D /* RoundedTextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedTextFieldView.swift; sourceTree = "<group>"; };
+		7B9D6AD62C43E25D00FD5C7D /* DropDownMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownMenuView.swift; sourceTree = "<group>"; };
+		7B9D6AD82C43E27500FD5C7D /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
+		7B9D6ADA2C43E27F00FD5C7D /* DropDownMenuViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownMenuViewModel.swift; sourceTree = "<group>"; };
+		7B9D6ADC2C43E28E00FD5C7D /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		7B9D6ADE2C43E29D00FD5C7D /* TypingLabelWrapperswift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TypingLabelWrapperswift.swift; path = ../../../../../../Documents/TypingLabelWrapperswift.swift; sourceTree = "<group>"; };
+		7B9D6AE02C43E32A00FD5C7D /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		7B9D6AE22C43E33000FD5C7D /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-SemiBold.ttf"; path = "../../../CryptoChanger/CryptoChanger/Fonts/Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		7B9D6AE82C43E36C00FD5C7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +72,12 @@
 		7B9D6ABD2C43E1C400FD5C7D /* CryptoExchange */ = {
 			isa = PBXGroup;
 			children = (
+				7B9D6ACE2C43E1F000FD5C7D /* Models */,
+				7B9D6ACD2C43E1E500FD5C7D /* ViewModels */,
+				7B9D6ACC2C43E1DD00FD5C7D /* Views */,
+				7B9D6AD32C43E23B00FD5C7D /* Fonts */,
+				7B9D6AE82C43E36C00FD5C7D /* Info.plist */,
 				7B9D6ABE2C43E1C400FD5C7D /* CryptoExchangeApp.swift */,
-				7B9D6AC02C43E1C400FD5C7D /* ContentView.swift */,
 				7B9D6AC22C43E1C800FD5C7D /* Assets.xcassets */,
 				7B9D6AC42C43E1C800FD5C7D /* Preview Content */,
 			);
@@ -65,6 +90,45 @@
 				7B9D6AC52C43E1C800FD5C7D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7B9D6ACC2C43E1DD00FD5C7D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7B9D6AD42C43E25300FD5C7D /* RoundedTextFieldView.swift */,
+				7B9D6AD62C43E25D00FD5C7D /* DropDownMenuView.swift */,
+				7B9D6AC02C43E1C400FD5C7D /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		7B9D6ACD2C43E1E500FD5C7D /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				7B9D6AD82C43E27500FD5C7D /* CoinManager.swift */,
+				7B9D6ADA2C43E27F00FD5C7D /* DropDownMenuViewModel.swift */,
+				7B9D6ADC2C43E28E00FD5C7D /* ContentViewModel.swift */,
+				7B9D6ADE2C43E29D00FD5C7D /* TypingLabelWrapperswift.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		7B9D6ACE2C43E1F000FD5C7D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7B9D6ACF2C43E20000FD5C7D /* MenuOption.swift */,
+				7B9D6AD12C43E21800FD5C7D /* CoinJson.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		7B9D6AD32C43E23B00FD5C7D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				7B9D6AE02C43E32A00FD5C7D /* Montserrat-Bold.ttf */,
+				7B9D6AE22C43E33000FD5C7D /* Montserrat-SemiBold.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +191,8 @@
 			files = (
 				7B9D6AC62C43E1C800FD5C7D /* Preview Assets.xcassets in Resources */,
 				7B9D6AC32C43E1C800FD5C7D /* Assets.xcassets in Resources */,
+				7B9D6AE42C43E33000FD5C7D /* Montserrat-SemiBold.ttf in Resources */,
+				7B9D6AE32C43E33000FD5C7D /* Montserrat-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +203,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B9D6AD92C43E27500FD5C7D /* CoinManager.swift in Sources */,
+				7B9D6AD72C43E25D00FD5C7D /* DropDownMenuView.swift in Sources */,
+				7B9D6AD22C43E21800FD5C7D /* CoinJson.swift in Sources */,
 				7B9D6AC12C43E1C400FD5C7D /* ContentView.swift in Sources */,
+				7B9D6ADB2C43E27F00FD5C7D /* DropDownMenuViewModel.swift in Sources */,
+				7B9D6ADF2C43E29D00FD5C7D /* TypingLabelWrapperswift.swift in Sources */,
+				7B9D6ADD2C43E28E00FD5C7D /* ContentViewModel.swift in Sources */,
+				7B9D6AD52C43E25300FD5C7D /* RoundedTextFieldView.swift in Sources */,
+				7B9D6AD02C43E20000FD5C7D /* MenuOption.swift in Sources */,
 				7B9D6ABF2C43E1C400FD5C7D /* CryptoExchangeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,6 +344,7 @@
 				DEVELOPMENT_TEAM = S3W9D9246F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CryptoExchange/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +374,7 @@
 				DEVELOPMENT_TEAM = S3W9D9246F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CryptoExchange/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
